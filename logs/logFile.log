@@ -8,3 +8,13 @@
 				com.gigssoft.controller.SLF4JExample - This is an error log example
 [WARN ] 14-04-2020 01:54:58.393 PM [http-nio-8090-exec-1]
 				com.gigssoft.controller.SLF4JExample - This is a warn log example
+[TRACE] 14-04-2020 02:34:50.570 PM [http-nio-8090-exec-3]
+				com.gigssoft.controller.SLF4JExample - This is a trace log example
+[INFO ] 14-04-2020 02:34:50.572 PM [http-nio-8090-exec-3]
+				com.gigssoft.controller.SLF4JExample - This is an info log example
+[DEBUG] 14-04-2020 02:34:50.573 PM [http-nio-8090-exec-3]
+				com.gigssoft.controller.SLF4JExample - This is a debug log example
+[ERROR] 14-04-2020 02:34:50.573 PM [http-nio-8090-exec-3]
+				com.gigssoft.controller.SLF4JExample - This is an error log example
+[WARN ] 14-04-2020 02:34:50.573 PM [http-nio-8090-exec-3]
+				com.gigssoft.controller.SLF4JExample - This is a warn log example
