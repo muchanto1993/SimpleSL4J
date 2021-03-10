@@ -12,4 +12,4 @@
 |ALL	   |   ✓   |   ✓   |  ✓   |  ✓   |  ✓    |
 |OFF	   |   ✗   |   ✗   |  ✗   |  ✗   |  ✗    |
 
-![Screenshot](Hirarki Level.png)
+![Hirarki Level](https://github.com/muchanto1993/SimpleSL4J/blob/master/Hirarki%20Level.png)
