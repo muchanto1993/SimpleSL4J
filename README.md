@@ -12,4 +12,4 @@
 |ALL	   |   ✓   |   ✓   |  ✓   |  ✓   |  ✓    |
 |OFF	   |   ✗   |   ✗   |  ✗   |  ✗   |  ✗    |
 
-![Alt text](SimpleSL4J/blob/master/Hirarki%20Level.png?raw=true "Title")
+![Screenshot](Hirarki Level.png)
